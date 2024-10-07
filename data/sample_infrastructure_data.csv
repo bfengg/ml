@@ -1,0 +1,8 @@
+business_unit,team,env,one_month_avg,six_month_avg,ec2_percentage,fargate_percentage,lambda_percentage,utilization_rate,deployment_frequency,seasonality,one_month_cv,six_month_cv,actual_compute_spend
+infrastructure,ops,prod,50000,50500,0.6,0.2,0.2,0.85,weekly,low,0.05,0.04,40000
+infrastructure,ops,prod,52000,52500,0.62,0.18,0.2,0.87,weekly,low,0.04,0.04,41000
+application,debit,prod,310000,315000,0.35,0.3,0.35,0.7,biweekly,low,0.08,0.07,270000
+application,credits,prod,290000,250000,0.45,0.25,0.3,0.55,monthly,high,0.15,0.12,200000
+application,credits,staging,300000,280000,0.4,0.35,0.25,0.6,monthly,high,0.1,0.08,210000
+r&d,r&d_team_1,prod,100000,80000,0.2,0.3,0.5,0.3,daily,high,0.25,0.3,60000
+r&d,r&d_team_2,staging,120000,140000,0.15,0.35,0.5,0.4,daily,high,0.3,0.35,70000
