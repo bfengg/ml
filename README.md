@@ -1,1 +1,1 @@
-# ml repository for cloud finops
+# ml repository for cloud infrastructure financials
